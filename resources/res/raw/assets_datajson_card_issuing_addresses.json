@@ -1,0 +1,1513 @@
+{
+  "type": "FeatureCollection",
+  "metadata": {
+    "name": "Без названия",
+    "creator": "Yandex Map Constructor"
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "id": 0,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.435067,
+          56.840505
+        ]
+      },
+      "properties": {
+        "description": "НО р.п. Воскресенское ул. Ленина, 133",
+        "iconCaption": "МФЦ",
+        "marker-color": "#1e98ff"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.16289,
+          57.128058
+        ]
+      },
+      "properties": {
+        "description": "НО п.г.т. Красные Баки Нижегородская улица, 16",
+        "iconCaption": "МФЦ",
+        "marker-color": "#1e98ff"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 2,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.849177,
+          56.243724
+        ]
+      },
+      "properties": {
+        "description": "НН улица Краснодонцев, 1",
+        "iconCaption": "МФЦ",
+        "marker-color": "#1e98ff"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 3,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.468203,
+          56.247442
+        ]
+      },
+      "properties": {
+        "description": "НО Дзержинск улица Гастелло, 11",
+        "iconCaption": "МФЦ",
+        "marker-color": "#1e98ff"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 4,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.029934,
+          56.014417
+        ]
+      },
+      "properties": {
+        "description": "НО Лысково улица Строителей, 1",
+        "iconCaption": "МФЦ",
+        "marker-color": "#1e98ff"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 5,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.049443,
+          56.361001
+        ]
+      },
+      "properties": {
+        "description": "НО Бор улица Пушкина, 76",
+        "iconCaption": "МФЦ",
+        "marker-color": "#1e98ff"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 6,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.002224,
+          56.312253
+        ]
+      },
+      "properties": {
+        "description": "НН Славянская улица, 25",
+        "iconCaption": "МФЦ",
+        "marker-color": "#1e98ff"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.271784,
+          55.984451
+        ]
+      },
+      "properties": {
+        "description": "НО Ворсма переулок Калинина, 10",
+        "iconCaption": "МФЦ",
+        "marker-color": "#1e98ff"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.942156,
+          56.27375
+        ]
+      },
+      "properties": {
+        "description": "НН Перекопская улица, 1",
+        "iconCaption": "МФЦ",
+        "marker-color": "#1e98ff"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 9,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.031223,
+          55.821647
+        ]
+      },
+      "properties": {
+        "description": "НО Княгинино улица Свободы, 45",
+        "iconCaption": "МФЦ",
+        "marker-color": "#1e98ff"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 10,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.945244,
+          56.228239
+        ]
+      },
+      "properties": {
+        "description": "НН проспект Гагарина, 228",
+        "iconCaption": "МФЦ",
+        "marker-color": "#1e98ff"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 11,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.069893,
+          56.314532
+        ]
+      },
+      "properties": {
+        "description": "НН улица Родионова, 165к13",
+        "iconCaption": "МФЦ",
+        "marker-color": "#1e98ff"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.212473,
+          56.147786
+        ]
+      },
+      "properties": {
+        "description": "НО Кстово Магистральная улица, 22Б",
+        "iconCaption": "МФЦ",
+        "marker-color": "#1e98ff"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 13,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.872384,
+          56.328675
+        ]
+      },
+      "properties": {
+        "description": "НН Берёзовская улица, 96А",
+        "iconCaption": "МФЦ",
+        "marker-color": "#1e98ff"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 14,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.555601,
+          56.525424
+        ]
+      },
+      "properties": {
+        "description": "НО Балахна проспект Дзержинского, 36",
+        "iconCaption": "МФЦ",
+        "marker-color": "#1e98ff"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 15,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.471463,
+          56.647586
+        ]
+      },
+      "properties": {
+        "description": "НО Городец Пролетарская площадь, 15",
+        "iconCaption": "МФЦ",
+        "marker-color": "#1e98ff"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 16,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.92154,
+          55.548349
+        ]
+      },
+      "properties": {
+        "description": "НО п.г.т. Пильна улица Урицкого, 14",
+        "iconCaption": "МФЦ",
+        "marker-color": "#1e98ff"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 17,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.949648,
+          56.318895
+        ]
+      },
+      "properties": {
+        "description": "НО п.Мулино Новая улица, 4",
+        "iconCaption": "МФЦ",
+        "marker-color": "#1e98ff"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 18,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.867978,
+          56.352829
+        ]
+      },
+      "properties": {
+        "description": "НН улица Коминтерна, 137",
+        "iconCaption": "МФЦ",
+        "marker-color": "#1e98ff"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 19,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.38743,
+          56.640797
+        ]
+      },
+      "properties": {
+        "description": "НО Заволжье проспект Мира, 19",
+        "iconCaption": "МФЦ",
+        "marker-color": "#1e98ff"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 20,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.487151,
+          56.788707
+        ]
+      },
+      "properties": {
+        "description": "НО Семёнов улица Ленина, 12А",
+        "iconCaption": "МФЦ",
+        "marker-color": "#1e98ff"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 21,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.514356,
+          56.102519
+        ]
+      },
+      "properties": {
+        "description": "НО Богородск улица Ленина, 206",
+        "iconCaption": "МФЦ",
+        "marker-color": "#1e98ff"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 22,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.622467,
+          55.39895
+        ]
+      },
+      "properties": {
+        "description": "НО с. Уразовка Парковый переулок, 3",
+        "iconCaption": "МФЦ",
+        "marker-color": "#1e98ff"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 23,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.095032,
+          55.812406
+        ]
+      },
+      "properties": {
+        "description": "НО п.г.т. Дальнее Константиново Совхозная улица, 2А",
+        "iconCaption": "МФЦ",
+        "marker-color": "#1e98ff"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 24,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.084089,
+          55.966532
+        ]
+      },
+      "properties": {
+        "description": "НО Павлово улица Чапаева, 38",
+        "iconCaption": "МФЦ",
+        "marker-color": "#1e98ff"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 25,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.456645,
+          55.533926
+        ]
+      },
+      "properties": {
+        "description": "НО Сергач Советская улица, 31",
+        "iconCaption": "МФЦ",
+        "marker-color": "#1e98ff"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 26,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.177484,
+          55.328274
+        ]
+      },
+      "properties": {
+        "description": "НО Выкса площадь Октябрьской Революции, 1",
+        "iconCaption": "МФЦ",
+        "marker-color": "#1e98ff"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 27,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.777747,
+          55.78774
+        ]
+      },
+      "properties": {
+        "description": "НО п.г.т. Большое Мурашкино улица Красная Горка, 3",
+        "iconCaption": "МФЦ",
+        "marker-color": "#1e98ff"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 28,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.784992,
+          57.849408
+        ]
+      },
+      "properties": {
+        "description": "НО Ветлуга улица Ленина, 3",
+        "iconCaption": "МФЦ",
+        "marker-color": "#1e98ff"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 29,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.924942,
+          56.318508
+        ]
+      },
+      "properties": {
+        "description": "НН Московское шоссе, 12",
+        "iconCaption": "МФЦ",
+        "marker-color": "#1e98ff"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 30,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.741012,
+          57.447299
+        ]
+      },
+      "properties": {
+        "description": "НО Урень улица Ленина, 282",
+        "iconCaption": "МФЦ",
+        "marker-color": "#1e98ff"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 31,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.697224,
+          55.86118
+        ]
+      },
+      "properties": {
+        "description": "НО с.Спасское Октябрьская улица, 69",
+        "iconCaption": "МФЦ",
+        "marker-color": "#1e98ff"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 32,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.397219,
+          56.222046
+        ]
+      },
+      "properties": {
+        "description": "НО Дзержинск Пушкинская улица, 16",
+        "iconCaption": "МФЦ",
+        "marker-color": "#1e98ff"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 33,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.615197,
+          57.677934
+        ]
+      },
+      "properties": {
+        "description": "НО Шахунья Революционная улица, 18",
+        "iconCaption": "МФЦ",
+        "marker-color": "#1e98ff"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 34,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.816472,
+          55.392445
+        ]
+      },
+      "properties": {
+        "description": "НО Арзамас улица Кирова, 27А",
+        "iconCaption": "МФЦ",
+        "marker-color": "#1e98ff"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 35,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.234014,
+          56.754414
+        ]
+      },
+      "properties": {
+        "description": "НО Чкаловск Краснофлотская улица, 11",
+        "iconCaption": "МФЦ",
+        "marker-color": "#1e98ff"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 36,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.815816,
+          57.127831
+        ]
+      },
+      "properties": {
+        "description": "НО п.г.т. Ковернино улица Карла Маркса, 26",
+        "iconCaption": "МФЦ",
+        "marker-color": "#1e98ff"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 37,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.862386,
+          54.696636
+        ]
+      },
+      "properties": {
+        "description": "НО с.Починки улица Ленина, 1",
+        "iconCaption": "МФЦ",
+        "marker-color": "#1e98ff"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 38,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.889016,
+          55.223601
+        ]
+      },
+      "properties": {
+        "description": "НО с.Сеченово Советская площадь, 4",
+        "iconCaption": "МФЦ",
+        "marker-color": "#1e98ff"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 39,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.863235,
+          56.060348
+        ]
+      },
+      "properties": {
+        "description": "НО п.г.т.Воротынец Советская площадь, 6",
+        "iconCaption": "МФЦ",
+        "marker-color": "#1e98ff"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 40,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.85595,
+          56.055719
+        ]
+      },
+      "properties": {
+        "description": "НО п.г.т.Воротынец улица Космонавтов, 7А",
+        "iconCaption": "МФЦ",
+        "marker-color": "#1e98ff"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 41,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.322788,
+          54.938809
+        ]
+      },
+      "properties": {
+        "description": "НО Саров улица Зернова, 62А",
+        "iconCaption": "МФЦ",
+        "marker-color": "#1e98ff"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 42,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.795824,
+          55.382322
+        ]
+      },
+      "properties": {
+        "description": "НО п.Выездное улица 5-я Линия, 14А",
+        "iconCaption": "МФЦ",
+        "marker-color": "#1e98ff"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 43,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.901221,
+          55.567809
+        ]
+      },
+      "properties": {
+        "description": "НО п.г.т.Бутурлино улица Ленина, 140",
+        "iconCaption": "МФЦ",
+        "marker-color": "#1e98ff"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 44,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.505205,
+          55.433533
+        ]
+      },
+      "properties": {
+        "description": "НО Кулебаки улица Циолковского, 39А",
+        "iconCaption": "МФЦ",
+        "marker-color": "#1e98ff"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 45,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.98935,
+          56.328181
+        ]
+      },
+      "properties": {
+        "description": "НН Рождественская улица, 24Б",
+        "iconCaption": "МФЦ",
+        "marker-color": "#1e98ff"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 46,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.094448,
+          57.402713
+        ]
+      },
+      "properties": {
+        "description": "НО п.г.т. Варнавино Комсомольская улица, 52",
+        "iconCaption": "МФЦ",
+        "marker-color": "#1e98ff"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 47,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.458172,
+          57.371054
+        ]
+      },
+      "properties": {
+        "description": "НО п.г.т.Тонкино Октябрьская улица, 8",
+        "iconCaption": "МФЦ",
+        "marker-color": "#1e98ff"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 48,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.786622,
+          57.197195
+        ]
+      },
+      "properties": {
+        "description": "НО п.Пруды Центральная улица, 17",
+        "iconCaption": "МФЦ",
+        "marker-color": "#1e98ff"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 49,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.1269,
+          55.188617
+        ]
+      },
+      "properties": {
+        "description": "НО р.п.Шатки Федеративная улица, 4",
+        "iconCaption": "МФЦ",
+        "marker-color": "#1e98ff"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 50,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.11766,
+          57.173875
+        ]
+      },
+      "properties": {
+        "description": "НО п.г.т. Советская улица, 18",
+        "iconCaption": "МФЦ",
+        "marker-color": "#1e98ff"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 51,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.213228,
+          55.533562
+        ]
+      },
+      "properties": {
+        "description": "НО с.Вад улица 1 Мая, 46",
+        "iconCaption": "МФЦ",
+        "marker-color": "#1e98ff"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 52,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.541706,
+          57.178504
+        ]
+      },
+      "properties": {
+        "description": "НО п.г.т.Шаранга улица Ленина, 19",
+        "iconCaption": "МФЦ",
+        "marker-color": "#1e98ff"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 53,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.171582,
+          55.804019
+        ]
+      },
+      "properties": {
+        "description": "НО р.п.Сосновское улица 1 Мая, 42",
+        "iconCaption": "МФЦ",
+        "marker-color": "#1e98ff"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 54,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.544953,
+          55.599045
+        ]
+      },
+      "properties": {
+        "description": "НО Перевоз Школьная улица, 28",
+        "iconCaption": "МФЦ",
+        "marker-color": "#1e98ff"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 55,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.311791,
+          55.003377
+        ]
+      },
+      "properties": {
+        "description": "НО с.Большое Болдино Пушкинская улица, 2",
+        "iconCaption": "МФЦ",
+        "marker-color": "#1e98ff"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 56,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.094426,
+          56.267187
+        ]
+      },
+      "properties": {
+        "description": "НО д.Афонино Магистральная улица, 73А",
+        "iconCaption": "МФЦ",
+        "marker-color": "#1e98ff"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 57,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.443111,
+          56.229485
+        ]
+      },
+      "properties": {
+        "description": "НО Дзержинск улица Терешковой, 24",
+        "iconCaption": "МФЦ",
+        "marker-color": "#1e98ff"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 58,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.495047,
+          55.035015
+        ]
+      },
+      "properties": {
+        "description": "НО Лукоянов Коммунистическая улица, 11",
+        "iconCaption": "МФЦ",
+        "marker-color": "#1e98ff"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 59,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.05481,
+          56.228566
+        ]
+      },
+      "properties": {
+        "description": "НО с.Федяково",
+        "iconCaption": "МФЦ",
+        "marker-color": "#1e98ff"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 60,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.004269,
+          55.98949
+        ]
+      },
+      "properties": {
+        "description": "НО п.г.т.Тумботино улица Чкалова, 16",
+        "iconCaption": "МФЦ",
+        "marker-color": "#1e98ff"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 61,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.104203,
+          55.239517
+        ]
+      },
+      "properties": {
+        "description": "НО р.п.Ардатов улица Ленина, 38",
+        "iconCaption": "МФЦ",
+        "marker-color": "#1e98ff"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 62,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.183558,
+          56.227058
+        ]
+      },
+      "properties": {
+        "description": "НО Володарск Заводская улица, 2",
+        "iconCaption": "МФЦ",
+        "marker-color": "#1e98ff"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 63,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.132189,
+          55.189256
+        ]
+      },
+      "properties": {
+        "description": "НО р.п.Шатки Федеративная улица, 27",
+        "iconCaption": "МФЦ",
+        "marker-color": "#1e98ff"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 64,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.027254,
+          55.234697
+        ]
+      },
+      "properties": {
+        "description": "НО с.Гагино Коммунистическая улица, 14",
+        "iconCaption": "МФЦ",
+        "marker-color": "#1e98ff"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 65,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.18801,
+          55.542094
+        ]
+      },
+      "properties": {
+        "description": "НО Навашино улица 1 Мая, 6",
+        "iconCaption": "МФЦ",
+        "marker-color": "#1e98ff"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 66,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.247772,
+          55.03573
+        ]
+      },
+      "properties": {
+        "description": "НО с.Дивеево Октябрьская улица, 35",
+        "iconCaption": "МФЦ",
+        "marker-color": "#1e98ff"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 67,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.794245,
+          54.8713
+        ]
+      },
+      "properties": {
+        "description": "НО Первомайск улица 50 лет Октября, 1А",
+        "iconCaption": "МФЦ",
+        "marker-color": "#1e98ff"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 68,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.078993,
+          56.350677
+        ]
+      },
+      "properties": {
+        "description": "НО Бор Стеклозаводское шоссе, 1Д",
+        "iconCaption": "МФЦ",
+        "marker-color": "#1e98ff"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 69,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.162693,
+          57.141153
+        ]
+      },
+      "properties": {
+        "description": "НО п.г.т.Сокольское улица Кирова, 13",
+        "iconCaption": "МФЦ",
+        "marker-color": "#1e98ff"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 70,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.016043,
+          57.729745
+        ]
+      },
+      "properties": {
+        "description": "НО п.г.т.Тоншаево улица Максима Горького, 4",
+        "iconCaption": "МФЦ",
+        "marker-color": "#1e98ff"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 71,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.685605,
+          57.969267
+        ]
+      },
+      "properties": {
+        "description": "НО п.г.т.Вахтан Лесная улица, 1",
+        "iconCaption": "МФЦ",
+        "marker-color": "#1e98ff"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 72,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.191605,
+          56.289925
+        ]
+      },
+      "properties": {
+        "description": "НО п.Октябрьский Октябрьская улица, 36А",
+        "iconCaption": "МФЦ",
+        "marker-color": "#1e98ff"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 73,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.769229,
+          55.800147
+        ]
+      },
+      "properties": {
+        "description": "НО п.г.т. Вача Советская улица, 7",
+        "iconCaption": "МФЦ",
+        "marker-color": "#1e98ff"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 74,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.203167,
+          56.142802
+        ]
+      },
+      "properties": {
+        "description": "НО Кстово Комсомольская улица, 9",
+        "iconCaption": "МФЦ",
+        "marker-color": "#1e98ff"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 75,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.033119,
+          55.802734
+        ]
+      },
+      "properties": {
+        "description": "НО с.Елизарово",
+        "iconCaption": "МФЦ",
+        "marker-color": "#1e98ff"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 76,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.759721,
+          54.889982
+        ]
+      },
+      "properties": {
+        "description": "НО п.г.т.Вознесенское Советская улица, 37",
+        "iconCaption": "МФЦ",
+        "marker-color": "#1e98ff"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 0,
+      "geometry": {
+        "coordinates": [
+          43.911743,
+          56.264446
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "description": "НН просп. Ленина, 78",
+        "iconCaption": "НБД-Банк",
+        "marker-color": "#1e98ff"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1,
+      "geometry": {
+        "coordinates": [
+          43.929342,
+          56.321012
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "description": "НН Сормовское ш., 15А",
+        "iconCaption": "НБД-Банк",
+        "marker-color": "#1e98ff"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 2,
+      "geometry": {
+        "coordinates": [
+          43.992719,
+          56.313154
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "description": "НН площадь Максима Горького, 6",
+        "iconCaption": "НБД-Банк",
+        "marker-color": "#1e98ff"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 3,
+      "geometry": {
+        "coordinates": [
+          44.067835,
+          56.312647
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "description": "НН ул. Родионова, 165, корп. 2",
+        "iconCaption": "НБД-Банк",
+        "marker-color": "#1e98ff"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 4,
+      "geometry": {
+        "coordinates": [
+          43.869671,
+          56.348368
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "description": "НН ул. Коминтерна, 115",
+        "iconCaption": "НБД-Банк",
+        "marker-color": "#1e98ff"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 5,
+      "geometry": {
+        "coordinates": [
+          43.92221,
+          56.276549
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "description": "НН просп. Ленина, 54А",
+        "iconCaption": "НБД-Банк",
+        "marker-color": "#1e98ff"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 6,
+      "geometry": {
+        "coordinates": [
+          43.848509,
+          56.242575
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "description": "НН Молодёжный просп., 33",
+        "iconCaption": "НБД-Банк",
+        "marker-color": "#1e98ff"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7,
+      "geometry": {
+        "coordinates": [
+          44.217297,
+          56.1555
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "description": "НО Кстово просп. Победы, 14",
+        "iconCaption": "НБД-Банк, отделения",
+        "marker-color": "#1e98ff"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8,
+      "geometry": {
+        "coordinates": [
+          43.866868,
+          56.252544
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "description": "НН просп. Октября, 18",
+        "iconCaption": "НБД-банк",
+        "marker-color": "#1e98ff"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 9,
+      "geometry": {
+        "coordinates": [
+          44.052995,
+          56.359042
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "description": "НО Бор ул. Ленина, 119",
+        "iconCaption": "НБД-Банк",
+        "marker-color": "#1e98ff"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 0,
+      "geometry": {
+        "coordinates": [
+          44.016311,
+          56.318134
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "description": "НН площадь Свободы, 4",
+        "iconCaption": "Газпромбанк",
+        "marker-color": "#1e98ff"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1,
+      "geometry": {
+        "coordinates": [
+          43.987368,
+          56.312701
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "description": "НН ул. Максима Горького, 63",
+        "iconCaption": "Газпромбанк",
+        "marker-color": "#1e98ff"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 2,
+      "geometry": {
+        "coordinates": [
+          43.953048,
+          56.340028
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "description": "НН ул. Карла Маркса, 62",
+        "iconCaption": "Газпромбанк",
+        "marker-color": "#1e98ff"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 3,
+      "geometry": {
+        "coordinates": [
+          44.012845,
+          56.328848
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "description": "НН ул. Минина, 8Б",
+        "iconCaption": "Газпромбанк",
+        "marker-color": "#1e98ff"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 4,
+      "geometry": {
+        "coordinates": [
+          43.866863,
+          56.35213
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "description": "НН ул. Коминтерна, 174",
+        "iconCaption": "Газпромбанк",
+        "marker-color": "#1e98ff"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 5,
+      "geometry": {
+        "coordinates": [
+          43.872703,
+          56.235025
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "description": "НН ул. Веденяпина, 11",
+        "iconCaption": "Газпромбанк ДО",
+        "marker-color": "#1e98ff"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 6,
+      "geometry": {
+        "coordinates": [
+          44.000209,
+          56.323217
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "description": "НН ул. Пискунова, 3, корп. 5",
+        "iconCaption": "Газпромбанк",
+        "marker-color": "#1e98ff"
+      }
+    }
+  ]
+}
